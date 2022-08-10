@@ -1,0 +1,15 @@
+D:\IT\HomeWork\HomeWork\Fig\bin\Debug\net6.0\Fig.exe
+D:\IT\HomeWork\HomeWork\Fig\bin\Debug\net6.0\Fig.deps.json
+D:\IT\HomeWork\HomeWork\Fig\bin\Debug\net6.0\Fig.runtimeconfig.json
+D:\IT\HomeWork\HomeWork\Fig\bin\Debug\net6.0\Fig.dll
+D:\IT\HomeWork\HomeWork\Fig\bin\Debug\net6.0\Fig.pdb
+D:\IT\HomeWork\HomeWork\Fig\obj\Debug\net6.0\Fig.csproj.AssemblyReference.cache
+D:\IT\HomeWork\HomeWork\Fig\obj\Debug\net6.0\Fig.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\HomeWork\HomeWork\Fig\obj\Debug\net6.0\Fig.AssemblyInfoInputs.cache
+D:\IT\HomeWork\HomeWork\Fig\obj\Debug\net6.0\Fig.AssemblyInfo.cs
+D:\IT\HomeWork\HomeWork\Fig\obj\Debug\net6.0\Fig.csproj.CoreCompileInputs.cache
+D:\IT\HomeWork\HomeWork\Fig\obj\Debug\net6.0\Fig.dll
+D:\IT\HomeWork\HomeWork\Fig\obj\Debug\net6.0\refint\Fig.dll
+D:\IT\HomeWork\HomeWork\Fig\obj\Debug\net6.0\Fig.pdb
+D:\IT\HomeWork\HomeWork\Fig\obj\Debug\net6.0\Fig.genruntimeconfig.cache
+D:\IT\HomeWork\HomeWork\Fig\obj\Debug\net6.0\ref\Fig.dll

@@ -1,0 +1,15 @@
+D:\IT\HomeWork\HomeWork\Practice10\obj\Debug\net6.0\Practice10.csproj.AssemblyReference.cache
+D:\IT\HomeWork\HomeWork\Practice10\obj\Debug\net6.0\Practice10.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\HomeWork\HomeWork\Practice10\obj\Debug\net6.0\Practice10.AssemblyInfoInputs.cache
+D:\IT\HomeWork\HomeWork\Practice10\obj\Debug\net6.0\Practice10.AssemblyInfo.cs
+D:\IT\HomeWork\HomeWork\Practice10\obj\Debug\net6.0\Practice10.csproj.CoreCompileInputs.cache
+D:\IT\HomeWork\HomeWork\Practice10\bin\Debug\net6.0\Practice10.exe
+D:\IT\HomeWork\HomeWork\Practice10\bin\Debug\net6.0\Practice10.deps.json
+D:\IT\HomeWork\HomeWork\Practice10\bin\Debug\net6.0\Practice10.runtimeconfig.json
+D:\IT\HomeWork\HomeWork\Practice10\bin\Debug\net6.0\Practice10.dll
+D:\IT\HomeWork\HomeWork\Practice10\bin\Debug\net6.0\Practice10.pdb
+D:\IT\HomeWork\HomeWork\Practice10\obj\Debug\net6.0\Practice10.dll
+D:\IT\HomeWork\HomeWork\Practice10\obj\Debug\net6.0\refint\Practice10.dll
+D:\IT\HomeWork\HomeWork\Practice10\obj\Debug\net6.0\Practice10.pdb
+D:\IT\HomeWork\HomeWork\Practice10\obj\Debug\net6.0\Practice10.genruntimeconfig.cache
+D:\IT\HomeWork\HomeWork\Practice10\obj\Debug\net6.0\ref\Practice10.dll
